@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="name_surname_margin_start">16dp</dimen>
+    <dimen name="name_surname_margin_top">10dp</dimen>
+    <dimen name="id_margin_top">5dp</dimen>
+    <dimen name="name_surname_text_size">18sp</dimen>
+</resources>
